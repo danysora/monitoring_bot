@@ -1,0 +1,8 @@
+cloudscraper
+beautifulsoup
+json5
+pytz
+requests
+discord.py
+watchdog
+cloudscraper
