@@ -21,7 +21,7 @@ bots = {
 }
 
 # Variable to track if a notification channel is set
-notification_channel_id = '1168568706838843474'
+notification_channel_id = 'channel_id_placeholder'
 
 @bot.event
 async def on_ready():
@@ -229,4 +229,4 @@ scraper_thread = threading.Thread(target=scrape_and_update_all)
 scraper_thread.daemon = True
 scraper_thread.start()
 
-bot.run('ODkyNTU2ODc2MzY4MTk5NzQx.GfnLZg.bK5koCrFAnumercGWdfiL0OnRp_ESl1a0R1f6o')
+bot.run('bot_key_placeholder')
