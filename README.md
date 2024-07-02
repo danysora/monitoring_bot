@@ -65,9 +65,6 @@ If you prefer not to run the bot on your local machine, you can utilize online h
 
 If you need to use proxies, you can provide them in `http_proxies.txt` and run `proxy_generator.py` on your computer. Then, upload the resulting file to the server.
 
-## Screenshots
-
-![Clappy in Action](screenshots/clappy-screenshot.png)
 
 ---
 
